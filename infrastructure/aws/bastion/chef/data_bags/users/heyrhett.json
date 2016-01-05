@@ -1,0 +1,6 @@
+{
+  "id"        : "heyrhett",
+  "comment"   : "Rhett",
+  "ssh_keys"  : ["ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDp1ypykIkAzNWBHiSmVgVyyuuouqgaIy9TMEnt/NEm3G3jn9m/qHNCtXOZm/WHgy7EkvTOaoDhanSTW/g9xwWspogo+yX5qefmtzsyBBh1LD7y7+kORuOTOGA5y05//FgVkqCXypGRlsO9VRsqGMKLaCwY4+p83PNz7jrhjAoegS+sw4mUWZI8aTxhNuNhcaBDQSQQAo5dnDtN7LpoQNthkuEn35OU12beVVlsTPaif1s01+j0nBda4Xsu2pKdRvvJT6FuQwA+yfCgzZbNb9QdaIK2yJd5cDBT77Fv6040gp2whNDl06AIY7V6sTQDSQRVId3/56lF9uVuhLTBFSNl rhett@w530"],
+  "environments": ["vagrant","bdoss-dev"]
+}
